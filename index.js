@@ -6,5 +6,11 @@ const subtrair = (n1, n2) => {
   return n1 - n2
 }
 
-const resultado = soma(2, 4)
-console.log(resultado)
+function main() {
+  const resultado = soma(2, 4)
+  console.log(resultado)
+}
+
+main()
+
+
